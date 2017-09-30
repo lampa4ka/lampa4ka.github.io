@@ -242,7 +242,7 @@ a{
 .block sup {
 	margin:0px 0px 0px 10px; 
 }
-.block button:active{
+.block button:hover{
 background: #ffcd00;
 }
 td button:last-child{
@@ -254,7 +254,7 @@ td button:last-child{
 	font-size: 14px;
 	line-height: 0.7;
 }
-td button:last-child:active{
+td button:last-child:hover{
 	background: #bc0126;
 }
 .bg_color{
