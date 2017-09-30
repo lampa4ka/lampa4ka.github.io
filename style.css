@@ -7,6 +7,7 @@
 a{
 	text-decoration: none;
 }
+
 .bd_red{
 	background: #b7002e;
 }
@@ -262,14 +263,71 @@ td button:last-child:hover{
 	height: 470px;
 	background-image: url(img/icon19.png);
 }
-.bg_color img{
-	display: block;
-	margin: 0 auto;
+.logo1 h3{
+	text-align: center;
+	padding: 80px 0px 0px 0px;
+	color:#fff;
+}
+.logo1 h3:before,
+.logo1 h3:after {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  box-sizing: border-box;
+  width: 7%;
+  height: 1px;
+  background: #e9e9e9;
+  border: 1px solid #fff;
+  border-width: 0 8px;
+  margin: 0px 8px 0px 8px;
+
+}
+.logo1 h3:before {
+  margin-left: -100%;
+}
+.logo1 h3:after {
+  margin-right: -100%;
+}
+.logo1 h1{
+	text-align: center;
+	padding: 15px 0px 0px 0px;
+	color:#fff;
+	font-size: 40px;
+}
+.logo1 p{
+	margin: 10px 0px 0px 530px;
+	padding: 15px 0px 0px 0px;
+	color:#fff;
+
+}
+.logo1 em{
+	font-size: 55px;
+	font-weight: bold;
+}
+.logo1 sup{
+	font-size: 20px;
+}
+.logo1 sup:last-child{
+	margin: 0px 0px 0px 20px;
+	color: #c2aa7e;
+	font-size: 15px;
+}
+.logo1 button{
+    margin: 50px 0px 0px 560px;
+    background: #f0002f;
+    border: none;
+    padding: 20px 70px 20px 70px;
+    border-radius: 5px;
+    color:#fff;
+}
+.logo1 button:hover{
+	background: #bb0226;
 }
 .bg_white1{
 	height: 395px;
 	width: 1320px;
 }
+
 .bg_white1{
 	text-align: center;
 }
