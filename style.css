@@ -261,7 +261,7 @@ td button:last-child:hover{
 .bg_color{
 	width: 1320px;
 	height: 470px;
-	background-image: url(img/icon19.png);
+	background: url(img/icon192.png);
 }
 .logo1 h3{
 	text-align: center;
@@ -307,11 +307,6 @@ td button:last-child:hover{
 .logo1 sup{
 	font-size: 20px;
 }
-.logo1 sup:last-child{
-	margin: 0px 0px 0px 20px;
-	color: #c2aa7e;
-	font-size: 15px;
-}
 .logo1 button{
     margin: 50px 0px 0px 560px;
     background: #f0002f;
@@ -322,6 +317,16 @@ td button:last-child:hover{
 }
 .logo1 button:hover{
 	background: #bb0226;
+}
+.lll1{
+	float: left;
+}
+.tyu{
+	margin: 35px 0px 0px 30px;
+	display: inline-block;
+	font-size: 15px;
+	color:#928264;
+	white-space:pre;
 }
 .bg_white1{
 	height: 395px;
@@ -344,9 +349,17 @@ td button:last-child:hover{
 	height: 495px;
 	width: 1320px;
 }
+
 .d2b2d img{
-   display: block;
-   margin: 0 auto;  
+	display: block;
+	margin: 0px auto;
+}
+.d2b2d a{
+	display: block;
+	padding: 20px;
+}
+.d2b2d table:first-child{
+	padding: 70px 0px 0px 400px;
 }
 .tn{
 	display: block;
