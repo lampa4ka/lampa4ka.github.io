@@ -9,12 +9,12 @@ a{
 }
 
 .bd_red{
-	background: #b7002e;
+	background: #c00a27;
 }
 .wrapper{
 	width: 1320px;
 	height: 135px;
-	background: #b7002e;
+	background: #c00a27;
 	margin: 0 auto;
 }
 .menu{
@@ -69,7 +69,7 @@ a{
 .menu1{
 	max-width: 1320px;
 	height: 745px;
-	background: #b7002e;
+	background: #c00a27;
 	margin: 0 auto;
 }
 .menu1 td{
@@ -345,7 +345,7 @@ td button:last-child:hover{
 	color:#71706c;
 }
 .d2b2d{
-	background: #303030;
+	background: #2c2c2c;
 	height: 495px;
 	width: 1320px;
 }
