@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+a{
+	text-decoration: none;
+}
+.found table{
+	margin: 3% 3% 0% 3%;
+	display: inline-block;
+	color:#fff;
+} 
+.found {
+	color:#fff;
+	display: inline-block;
+	background-image: url(../img/rrr.png);
+}
