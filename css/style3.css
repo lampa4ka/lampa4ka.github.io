@@ -12,14 +12,19 @@
 .menu a{
 	padding: 1.9% 0% 1.9% 0%;
 }
+.fgh{
+	padding: 5% 5% 2% 10%;
+	display: inline-block;
+	float: right;
+}
 .found {
 	width: 100%;
 	color:#fff;
-	display: inline-block;
+	display: flex;
 	background-image: url(../img/rrr.png);
 }
-.found p{
-	padding: 4% 5% 26% 6%;
+.prize1{
+	padding: 5% 10% 26% 10%;
 	display: inline-block;
 	color:#fff;
 } 
